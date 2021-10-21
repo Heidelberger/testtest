@@ -5,3 +5,5 @@ Here is a change made in notepad.
 and here's another cahnge on teh website.
 
 another website change.
+
+notepad change that conflicts.
